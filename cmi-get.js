@@ -152,6 +152,7 @@ module.exports = function (RED) {
 							case '4': cmiSource = RED._("cmi.sources.option4"); break;
 							case '5': cmiSource = RED._("cmi.sources.option5"); break;
 							case '6': cmiSource = RED._("cmi.sources.option6"); break;
+							case '7': cmiSource = RED._("cmi.sources.option7"); break;
 						}
 						if (debugDetailed) {	
 							console.log(nodeName + '[' + config.name + '] config.source      : ' + config.source);

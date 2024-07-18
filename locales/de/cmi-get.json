@@ -52,6 +52,7 @@
             "option4" : "Netzwerkeingang analog (nur 1611)",
             "option5" : "Netzwerkeingang digital (nur 1611)",
             "option6" : "DL-Bus",
+            "option7" : "M-Bus",
             "option99": "nicht definiert"
         },
         "timestamps" : {
